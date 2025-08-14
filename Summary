@@ -1,0 +1,14 @@
+Malicious browser extensions can:
+  - Steal sensitive data, including passwords and cookies.
+  - Inject unwanted ads or malware.
+  - Track your browsing activity for malicious profiling.
+  - Redirect search queries or install further malware.
+
+Extension Summary:
+| Extension Name                            | Action  | Reason                     | Notes (Permissions/Review)                                   |
+|-------------------------------------------|---------|----------------------------|--------------------------------------------------------------|
+| AdBlock                                   | Kept    | Trusted / Used Frequently  | High ratings, minimal access                                 |
+| Google Docs Offline                       | Kept    | Trusted / Needed           | Published by Google, standard permissions                    |
+| Grammarly                                 | Kept    | Useful / Trusted Publisher | High ratings, accesses text content for spell/grammar check  |
+| McAfee WebAdvisor                         | Removed | Not Needed / Privacy Doubts| Broad permissions, mixed reviews, privacy policy concerns    |
+| VPN for Chrome: NordVPN proxy protection  | Kept    | Security / Privacy Utility | Reputable vendor, permissions needed for VPN functionality   |
